@@ -4,7 +4,7 @@
    <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://i.imgur.com/X7Bfwpl.gifv" width="50%"/></a><br/>
+         <img align="center" src="https://i.imgur.com/rOMN0eX.jpg" width="50%"/></a><br/>
          <br/><br/>
             <a href="https://dsc.gg/zeal"><img align="center" src="https://discord.com/api/guilds/729080779002609744/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
